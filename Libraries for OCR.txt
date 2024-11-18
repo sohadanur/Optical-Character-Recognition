@@ -1,0 +1,15 @@
+Libraries for OCR:
+
+1. EasyOCR
+2. Doctr
+3. Keras-OCR
+4. Tesseract
+5. GOCR
+6. Pytesseract
+7. OpenCV
+8. Amazon Textract
+9. pdf2image (for this to work you will need to install poppler)
+10. PyMuPDF
+11. EasyOCR
+12. OCRmyPDF
+13. PyPDF2
